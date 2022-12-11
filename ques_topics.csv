@@ -1,0 +1,5 @@
+Question Number,Topic,Cosine Similarity
+Q1,item-to-item recommendation,0.8660254037844387
+Q2,apriori algorithm,0.9999999999999998
+Q3,random,0.7071067811865475
+Q4,: dbscan,0.7071067811865475

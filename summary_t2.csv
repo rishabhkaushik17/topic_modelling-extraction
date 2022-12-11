@@ -1,0 +1,6 @@
+Question Number,Topic,Cosine Similarity,Marks,Average Number,Percentage Attainment,Module
+Q1,performance evaluation of classifiers: precision recall,0.5773502691896258,3,1.6335078534031413,54.45026178010471,Classification  Algorithms
+Q2,hierarchical methods,0.4999999999999999,4,3.081151832460733,77.02879581151832,Clustering Algorithms
+Q3,naive bayes classification,0.4082482904638629,8,4.93455497382199,61.68193717277487,Classification  Algorithms
+Q4,: dbscan,0.7071067811865475,2,0.34554973821989526,17.277486910994764,Clustering Algorithms
+Q5,data warehouse,0.4999999999999999,3,1.3141361256544504,43.804537521815014,Data Warehouse Concepts

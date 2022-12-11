@@ -1,0 +1,6 @@
+Question Number,Topic,Cosine Similarity,Marks,Average Number,Percentage Attainment,Module
+Q1,chi-square,0.5,5,3.039267016,60.78534031,Classification  Algorithms
+Q2,decision tree based algorithm,0.707106781,6,4.732984293,78.88307155,Classification  Algorithms
+Q3,further development of data cube and olap technology,0.25,3,1.42408377,47.46945899,Dimensional modeling and OLAP Technology 
+Q4,term-frequency,1,4,1.676439791,41.91099476,"Searching , crawling and indexing Algorithms"
+Q5,data warehouse,0.5,2,1.659685864,82.98429319,Data Warehouse Concepts
